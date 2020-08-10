@@ -7,10 +7,10 @@
 		"minified": true,
 		"newFeature": true
 	},
-	"compileType": "miniprogram",
-	"libVersion": "1.9.94",
-	"appid": "wx738a729ceb23525a",
-	"projectname": "cax-weapp",
+	"compileType": "game",
+	"libVersion": "game",
+	"appid": "wxa1c6e3caf175e0ea",
+	"projectname": "cax-wegame",
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
 	"condition": {
@@ -19,10 +19,6 @@
 			"list": []
 		},
 		"conversation": {
-			"current": -1,
-			"list": []
-		},
-		"plugin": {
 			"current": -1,
 			"list": []
 		},
